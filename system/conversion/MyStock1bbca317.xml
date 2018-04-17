@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\code\Myeclipse Workspace\MyStock\.idea\kotlinc.xml" timestamp="1523496456056" />
+    <file path="F:\code\Myeclipse Workspace\MyStock\.idea\misc.xml" timestamp="1523777876497" />
+    <file path="F:\code\Myeclipse Workspace\MyStock\.idea\modules.xml" timestamp="1523461192246" />
+    <file path="F:\code\Myeclipse Workspace\MyStock\.idea\vcs.xml" timestamp="1523461192175" />
+    <file path="F:\code\Myeclipse Workspace\MyStock\.idea\workspace.xml" timestamp="1523786909528" />
+    <file path="F:\code\Myeclipse Workspace\MyStock\MyStock.iml" timestamp="1523778038937" />
+  </project-files>
+</conversion>
+

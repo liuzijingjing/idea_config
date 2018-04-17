@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\artifacts\mmall_war.xml" timestamp="1523178729308" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\artifacts\mmall_war_exploded.xml" timestamp="1523178729361" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\compiler.xml" timestamp="1523178729403" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\encodings.xml" timestamp="1523178729459" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\kotlinc.xml" timestamp="1523178729516" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1523178729673" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_2.xml" timestamp="1523178729725" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_2.xml" timestamp="1523178729798" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" timestamp="1523178729884" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_github_miemiedev_mybatis_paginator_1_2_17.xml" timestamp="1523178729956" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_github_pagehelper_pagehelper_4_1_0.xml" timestamp="1523178729997" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_google_code_gson_gson_2_3_1.xml" timestamp="1523178730048" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_google_guava_guava_20_0.xml" timestamp="1523178730103" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__com_google_zxing_core_2_1.xml" timestamp="1523178730195" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1523178730276" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" timestamp="1523178730329" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_configuration_commons_configuration_1_10.xml" timestamp="1523178730385" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_dbcp_commons_dbcp_1_4.xml" timestamp="1523178730468" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_2_2.xml" timestamp="1523178730544" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_io_commons_io_2_0_1.xml" timestamp="1523178730609" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1523178730664" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" timestamp="1523178730723" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_net_commons_net_3_1.xml" timestamp="1523178730802" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__commons_pool_commons_pool_1_5_4.xml" timestamp="1523178730877" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__joda_time_joda_time_2_3.xml" timestamp="1523178730937" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1523178731025" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_6.xml" timestamp="1523178731086" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_5.xml" timestamp="1523178731144" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_4_2.xml" timestamp="1523178731243" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_apache_tomcat_tomcat_servlet_api_7_0_64.xml" timestamp="1523178731294" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_aspectj_aspectjrt_1_6_11.xml" timestamp="1523178731350" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_7_3.xml" timestamp="1523178731404" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" timestamp="1523178731476" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" timestamp="1523178731537" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1523178731580" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_hashids_hashids_1_0_1.xml" timestamp="1523178731635" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_mybatis_mybatis_3_4_1.xml" timestamp="1523178731710" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1523178731765" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" timestamp="1523178731833" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" timestamp="1523178731901" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" timestamp="1523178731992" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" timestamp="1523178732116" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" timestamp="1523178732184" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" timestamp="1523178732228" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" timestamp="1523178732273" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_oxm_4_0_0_RELEASE.xml" timestamp="1523178732316" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" timestamp="1523178732372" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" timestamp="1523178732438" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" timestamp="1523178732499" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" timestamp="1523178732578" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\libraries\Maven__redis_clients_jedis_2_9_0.xml" timestamp="1523178732645" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\misc.xml" timestamp="1523431477720" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\modules.xml" timestamp="1523178729589" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\.idea\workspace.xml" timestamp="1523786907938" />
+    <file path="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall\mmall.iml" timestamp="1523431477650" />
+  </project-files>
+</conversion>
+

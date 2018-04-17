@@ -1,0 +1,228 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:\code\Transaction\Spring-transaction" />
+        <option value="F:\项目\EnterpriseProject\Java电商二期\一期+二期资料\mmallv4.0" />
+        <option value="F:\code\Myeclipse Workspace\MyStock" />
+        <option value="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall" />
+        <option value="F:\code\IDEA\mmall" />
+        <option value="F:\code\eclipse Workspace\batchpro" />
+        <option value="F:\项目\EnterpriseProject\dangmianfu_demo_java\TradePayDemo" />
+        <option value="F:\code\SHIDEA\springcore" />
+        <option value="F:\code\IDEA\Hello" />
+        <option value="F:\code\SHIDEA\connector-shws" />
+        <option value="F:\code\IDEA\midpoint-3.7" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:\code\Transaction\Spring-transaction" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:\code\Transaction\Spring-transaction" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:\code\IDEA">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1518856615449" />
+              <option name="buildTimestamp" value="1493104412230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\Hello">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1522332148779" />
+              <option name="buildTimestamp" value="1493104397994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\HelloMaven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1519718756202" />
+              <option name="buildTimestamp" value="1493104413626" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\Maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1518882752961" />
+              <option name="buildTimestamp" value="1493104392353" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\TestMaven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1518968476531" />
+              <option name="buildTimestamp" value="1493104433516" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\TestWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1518884720617" />
+              <option name="buildTimestamp" value="1493104392353" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\midpoint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1520348025088" />
+              <option name="buildTimestamp" value="1493104400067" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\midpoint-3.7">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1520564040902" />
+              <option name="buildTimestamp" value="1493104415816" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\IDEA\mmall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523592021499" />
+              <option name="buildTimestamp" value="1493104418581" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\Myeclipse Workspace\MyStock">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523808667790" />
+              <option name="buildTimestamp" value="1493104420451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\SHIDEA\connector-shws">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1522115386960" />
+              <option name="buildTimestamp" value="1493104405701" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\SHIDEA\springcore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523008832522" />
+              <option name="buildTimestamp" value="1493104405905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\Transaction\Spring-transaction">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523872990374" />
+              <option name="buildTimestamp" value="1493104417421" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\code\eclipse Workspace\batchpro">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523461099647" />
+              <option name="buildTimestamp" value="1493104395472" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\项目\EnterpriseProject\Java电商一期\mmall\mmall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523777548883" />
+              <option name="buildTimestamp" value="1493104420451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\项目\EnterpriseProject\Java电商二期\一期+二期资料\mmallv4.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523842271323" />
+              <option name="buildTimestamp" value="1493104417421" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\项目\EnterpriseProject\dangmianfu_demo_java\TradePayDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523432004951" />
+              <option name="buildTimestamp" value="1493104424078" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\项目\EnterpriseProject\新建文件夹\一期+二期资料\mmallv4.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="E:\JetBrains\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523548150877" />
+              <option name="buildTimestamp" value="1493104425213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/code/Transaction" />
+  </component>
+</application>

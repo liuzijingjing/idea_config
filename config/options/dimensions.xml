@@ -1,0 +1,66 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="691" y="150" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="305" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="626" y="293" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="311" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@120dpi" x="751" y="399" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="246" y="58" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080@120dpi" x="439" y="89" />
+    <location key="#Notifications.0.0.1920.1080@120dpi" x="646" y="178" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="398" y="78" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="67" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1109" y="811" />
+    <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="708" y="414" />
+    <location key="#Menus_and_Toolbars.0.0.1920.1080@120dpi" x="692" y="232" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1920.1080@120dpi" x="626" y="241" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" x="683" y="365" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="447" y="45" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="588" y="344" />
+    <location key="#Maven_environment.0.0.1920.1080@120dpi" x="701" y="328" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="535" y="94" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080@120dpi" x="738" y="417" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@120dpi" x="634" y="289" />
+    <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="604" y="191" />
+    <location key="#Updates.0.0.1920.1080@120dpi" x="662" y="344" />
+    <location key="#HTTP_Proxy.0.0.1920.1080@120dpi" x="765" y="206" />
+    <location key="#Appearance.0.0.1920.1080@120dpi" x="726" y="94" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="667" y="177" />
+    <location key="RollbackChangesDialog.0.0.1920.1080@120dpi" x="730" y="160" />
+    <location key="#Unnamed.0.0.1920.1080@120dpi" x="585" y="54" />
+    <location key="DetectedRootsChooserDialog.0.0.1920.1080@120dpi" x="721" y="196" />
+    <location key="#imooc.0.0.1920.1080@120dpi" x="585" y="49" />
+    <location key="StructurePopup.0.0.1920.1080@120dpi" x="666" y="291" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="152" />
+    <location key="spring file set editor.0.0.1920.1080@120dpi" x="441" y="136" />
+    <location key="#tomcat1.0.0.1920.1080@120dpi" x="585" y="58" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080@120dpi" x="477" y="413" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1428" height="926" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="971" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="620" height="206" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GotoFile_FileTypePopup.0.0.1920.1080@120dpi" width="237" height="246" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="1049" height="945" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="557" height="209" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1864" height="254" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080@120dpi" width="1864" height="220" />
+    <size key="StructurePopup.0.0.1920.1080@120dpi" width="568" height="410" />
+  </component>
+</application>

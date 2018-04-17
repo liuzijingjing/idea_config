@@ -1,0 +1,330 @@
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.81
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Aug 11 2017 10:21:27 UTC
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.81.0
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java8\jdk\jre
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_101-b13
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         G:\idea_config\system\tomcat\Unnamed_mmall_3
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         E:\apache-tomcat-7.0.81
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=G:\idea_config\system\tomcat\Unnamed_mmall_3\conf\logging.properties
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=E:\apache-tomcat-7.0.81\endorsed
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=G:\idea_config\system\tomcat\Unnamed_mmall_3
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=E:\apache-tomcat-7.0.81
+四月 11, 2018 3:26:14 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=E:\apache-tomcat-7.0.81\temp
+四月 11, 2018 3:26:14 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.12 using APR version 1.5.2.
+四月 11, 2018 3:26:14 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 11, 2018 3:26:15 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.2k  26 Jan 2017)
+四月 11, 2018 3:26:15 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:26:16 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:26:16 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1981 ms
+四月 11, 2018 3:26:16 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 11, 2018 3:26:16 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.81
+四月 11, 2018 3:26:16 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:26:16 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:26:16 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 67 ms
+四月 11, 2018 3:26:26 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\apache-tomcat-7.0.81\webapps\manager
+四月 11, 2018 3:26:26 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory E:\apache-tomcat-7.0.81\webapps\manager has finished in 389 ms
+四月 11, 2018 3:28:04 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:28:04 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:28:04 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.81
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Aug 11 2017 10:21:27 UTC
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.81.0
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java8\jdk\jre
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_101-b13
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         G:\idea_config\system\tomcat\Unnamed_mmall_3
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         E:\apache-tomcat-7.0.81
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=G:\idea_config\system\tomcat\Unnamed_mmall_3\conf\logging.properties
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=E:\apache-tomcat-7.0.81\endorsed
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=G:\idea_config\system\tomcat\Unnamed_mmall_3
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=E:\apache-tomcat-7.0.81
+四月 11, 2018 3:28:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=E:\apache-tomcat-7.0.81\temp
+四月 11, 2018 3:28:38 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.12 using APR version 1.5.2.
+四月 11, 2018 3:28:38 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 11, 2018 3:28:39 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.2k  26 Jan 2017)
+四月 11, 2018 3:28:39 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:28:39 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:28:39 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1372 ms
+四月 11, 2018 3:28:39 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 11, 2018 3:28:39 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.81
+四月 11, 2018 3:28:39 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:28:39 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:28:39 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 53 ms
+四月 11, 2018 3:28:41 下午 org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+信息: validateJarFile(E:\apache-tomcat-7.0.81\webapps\ROOT\WEB-INF\lib\tomcat-servlet-api-7.0.64.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+四月 11, 2018 3:28:43 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+四月 11, 2018 3:28:43 下午 org.springframework.web.context.ContextLoader initWebApplicationContext
+信息: Root WebApplicationContext: initialization started
+四月 11, 2018 3:28:43 下午 org.springframework.context.support.AbstractApplicationContext prepareRefresh
+信息: Refreshing Root WebApplicationContext: startup date [Wed Apr 11 15:28:43 CST 2018]; root of context hierarchy
+四月 11, 2018 3:28:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from class path resource [applicationContext.xml]
+四月 11, 2018 3:28:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from class path resource [applicationContext-datasource.xml]
+四月 11, 2018 3:28:43 下午 org.springframework.core.io.support.PropertiesLoaderSupport loadProperties
+信息: Loading properties file from class path resource [datasource.properties]
+四月 11, 2018 3:28:44 下午 com.alipay.demo.trade.config.Configs init
+信息: 配置文件名: zfbinfo.properties
+四月 11, 2018 3:28:44 下午 com.alipay.demo.trade.config.Configs init
+信息: Configs{支付宝openapi网关: https://openapi.alipaydev.com/gateway.do
+, 支付宝mcloudapi网关域名: http://mcloudmonitor.com/gateway.do
+, pid: 2088102180444972
+, appid: 2016102100728313
+, 商户RSA私钥: MIIEvg******Na0rDI
+, 商户RSA公钥: MIIBIj******IDAQAB
+, 支付宝RSA公钥: MIIBIj******IDAQAB
+, 签名类型: RSA2
+, 查询重试次数: 5
+, 查询间隔(毫秒): 5000
+, 撤销尝试次数: 3
+, 撤销重试间隔(毫秒): 2000
+, 交易保障调度延迟(秒): 5
+, 交易保障调度间隔(秒): 900
+}
+四月 11, 2018 3:28:44 下午 org.springframework.web.context.ContextLoader initWebApplicationContext
+信息: Root WebApplicationContext: initialization completed in 1509 ms
+四月 11, 2018 3:28:44 下午 org.springframework.web.servlet.FrameworkServlet initServletBean
+信息: FrameworkServlet 'dispatcher': initialization started
+四月 11, 2018 3:28:44 下午 org.springframework.context.support.AbstractApplicationContext prepareRefresh
+信息: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Apr 11 15:28:44 CST 2018]; parent: Root WebApplicationContext
+四月 11, 2018 3:28:44 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/category/get_deep_category.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.CategoryManageController.getCategoryAndDeepChildrenCategory(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/category/set_category_name.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.CategoryManageController.setCategoryName(javax.servlet.http.HttpSession,java.lang.Integer,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/category/add_category.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.CategoryManageController.addCategory(javax.servlet.http.HttpSession,java.lang.String,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/category/get_category.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.CategoryManageController.getChildrenParallelCategory(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/order/detail.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.OrderVo> com.mmall.controller.backend.OrderManageController.orderDetail(javax.servlet.http.HttpSession,java.lang.Long)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/order/search.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.github.pagehelper.PageInfo> com.mmall.controller.backend.OrderManageController.orderSearch(javax.servlet.http.HttpSession,java.lang.Long,int,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/order/send_goods.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.backend.OrderManageController.orderSendGoods(javax.servlet.http.HttpSession,java.lang.Long)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/order/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.github.pagehelper.PageInfo> com.mmall.controller.backend.OrderManageController.orderList(javax.servlet.http.HttpSession,int,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/upload.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.upload(javax.servlet.http.HttpSession,org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/set_sale_status.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.setSaleStatus(javax.servlet.http.HttpSession,java.lang.Integer,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.getList(javax.servlet.http.HttpSession,int,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/search.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.productSearch(javax.servlet.http.HttpSession,java.lang.String,java.lang.Integer,int,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/save.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.productSave(javax.servlet.http.HttpSession,com.mmall.pojo.Product)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/detail.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.backend.ProductManageController.getDetail(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/product/richtext_img_upload.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map com.mmall.controller.backend.ProductManageController.richtextImgUpload(javax.servlet.http.HttpSession,org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/user/login.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.User> com.mmall.controller.backend.UserManageController.login(java.lang.String,java.lang.String,javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//add.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.add(javax.servlet.http.HttpSession,java.lang.Integer,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//update.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.update(javax.servlet.http.HttpSession,java.lang.Integer,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.list(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//select.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.select(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//delete_product.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.deleteProduct(javax.servlet.http.HttpSession,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//select_all.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.selectAll(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//un_select.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.unSelect(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//un_select_all.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.CartVo> com.mmall.controller.portal.CartController.unSelectAll(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/cart//get_cart_product_count.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.Integer> com.mmall.controller.portal.CartController.getCartProductCount(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//create.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.create(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.list(javax.servlet.http.HttpSession,int,int)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//cancel.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.cancel(javax.servlet.http.HttpSession,java.lang.Long)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//detail.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.detail(javax.servlet.http.HttpSession,java.lang.Long)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//alipay_callback.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.Object com.mmall.controller.portal.OrderController.alipayCallback(javax.servlet.http.HttpServletRequest)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//pay.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.pay(javax.servlet.http.HttpSession,java.lang.Long,javax.servlet.http.HttpServletRequest)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//query_order_pay_status.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.Boolean> com.mmall.controller.portal.OrderController.queryOrderPayStatus(javax.servlet.http.HttpSession,java.lang.Long)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/order//get_order_cart_product.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.OrderController.getOrderCartProduct(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/product//list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.github.pagehelper.PageInfo> com.mmall.controller.portal.ProductController.list(java.lang.String,java.lang.Integer,int,int,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/product//detail.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.vo.ProductDetailVo> com.mmall.controller.portal.ProductController.detail(java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/shipping//add.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.ShippingController.add(javax.servlet.http.HttpSession,com.mmall.pojo.Shipping)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/shipping//update.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.ShippingController.update(javax.servlet.http.HttpSession,com.mmall.pojo.Shipping)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/shipping//list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.github.pagehelper.PageInfo> com.mmall.controller.portal.ShippingController.list(int,int,javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/shipping//select.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.Shipping> com.mmall.controller.portal.ShippingController.select(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/shipping//del.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse com.mmall.controller.portal.ShippingController.del(javax.servlet.http.HttpSession,java.lang.Integer)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//register.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.register(com.mmall.pojo.User)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//get_user_info.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.User> com.mmall.controller.portal.UserController.getUserInfo(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//logout.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.logout(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//login.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.User> com.mmall.controller.portal.UserController.login(java.lang.String,java.lang.String,javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//get_information.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.User> com.mmall.controller.portal.UserController.get_information(javax.servlet.http.HttpSession)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//reset_password.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.resetPassword(javax.servlet.http.HttpSession,java.lang.String,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//check_valid.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.checkValid(java.lang.String,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_check_answer.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.forgetCheckAnswer(java.lang.String,java.lang.String,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_get_question.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.forgetGetQuestion(java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_reset_password.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<java.lang.String> com.mmall.controller.portal.UserController.forgetRestPassword(java.lang.String,java.lang.String,java.lang.String)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//update_information.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.mmall.common.ServerResponse<com.mmall.pojo.User> com.mmall.controller.portal.UserController.update_information(javax.servlet.http.HttpSession,com.mmall.pojo.User)
+四月 11, 2018 3:28:45 下午 org.springframework.web.servlet.FrameworkServlet initServletBean
+信息: FrameworkServlet 'dispatcher': initialization completed in 749 ms
+四月 11, 2018 3:28:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\apache-tomcat-7.0.81\webapps\manager
+四月 11, 2018 3:28:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory E:\apache-tomcat-7.0.81\webapps\manager has finished in 80 ms
+四月 11, 2018 3:28:57 下午 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver handleHttpRequestMethodNotSupported
+警告: Request method 'GET' not supported
+四月 11, 2018 3:38:58 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:38:58 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 11, 2018 3:38:58 下午 org.springframework.context.support.AbstractApplicationContext doClose
+信息: Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Apr 11 15:28:44 CST 2018]; parent: Root WebApplicationContext
+四月 11, 2018 3:38:58 下午 org.springframework.context.support.AbstractApplicationContext doClose
+信息: Closing Root WebApplicationContext: startup date [Wed Apr 11 15:28:43 CST 2018]; root of context hierarchy
+四月 11, 2018 3:38:58 下午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+四月 11, 2018 3:38:58 下午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+严重: The web application [] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak.
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8888"]
+四月 11, 2018 3:38:58 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]

@@ -1,0 +1,13 @@
+<templateSet group="属性">
+  <template name="ps" value="public String $VAR1$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="psa" value="public String $VAR1$ = &quot;$VAR2$&quot;;" description="assignment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="psn" value="/**&#10; * $VAR1$&#10; */&#10;public String $VAR2$;&#10;&#10;$END$" description="带有注释Sting note" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

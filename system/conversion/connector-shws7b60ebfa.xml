@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\code\SHIDEA\connector-shws\.idea\compiler.xml" timestamp="1520587953646" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\encodings.xml" timestamp="1520587953698" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\kotlinc.xml" timestamp="1521078624413" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1521078624482" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__cn_xpie_idm_sh4a_provisioning_shws_client_1_0_0_SNAPSHOT.xml" timestamp="1521078624532" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__com_beust_jcommander_1_27.xml" timestamp="1521078624570" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__com_google_inject_guice_3_0.xml" timestamp="1521078624648" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" timestamp="1521078624713" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" timestamp="1521078624772" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" timestamp="1521078624827" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" timestamp="1521078624892" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__junit_junit_4_10.xml" timestamp="1521078624959" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__net_tirasa_connid_connector_framework_1_4_2_18.xml" timestamp="1521078625017" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__net_tirasa_connid_connector_framework_contract_1_4_2_18.xml" timestamp="1521078625066" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__net_tirasa_connid_connector_framework_internal_1_4_2_18.xml" timestamp="1521078625100" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__net_tirasa_connid_connector_test_common_1_4_2_18.xml" timestamp="1521078625133" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_core_3_1_12.xml" timestamp="1521078625166" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_soap_3_1_12.xml" timestamp="1521078625221" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_xml_3_1_12.xml" timestamp="1521078625277" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_1_12.xml" timestamp="1521078625344" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_1_12.xml" timestamp="1521078625388" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_simple_3_1_12.xml" timestamp="1521078625434" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_http_3_1_12.xml" timestamp="1521078625466" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_addr_3_1_12.xml" timestamp="1521078625499" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_policy_3_1_12.xml" timestamp="1521078625557" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_cxf_cxf_rt_wsdl_3_1_12.xml" timestamp="1521078625611" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_neethi_neethi_3_0_3.xml" timestamp="1521078625667" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_2.xml" timestamp="1521078625722" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" timestamp="1521078625778" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_codehaus_groovy_groovy_all_2_4_5.xml" timestamp="1521078625860" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" timestamp="1521078625925" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" timestamp="1521078625997" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml" timestamp="1521078626034" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_ow2_asm_asm_5_0_4.xml" timestamp="1521078626097" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_testng_testng_6_8.xml" timestamp="1521078626143" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__org_yaml_snakeyaml_1_6.xml" timestamp="1521078626188" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__wsdl4j_wsdl4j_1_6_3.xml" timestamp="1521078626230" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\libraries\Maven__xml_resolver_xml_resolver_1_2.xml" timestamp="1521078626280" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\misc.xml" timestamp="1520587878129" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\modules.xml" timestamp="1520587953752" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\vcs.xml" timestamp="1520587878163" />
+    <file path="F:\code\SHIDEA\connector-shws\.idea\workspace.xml" timestamp="1522115410177" />
+    <file path="F:\code\SHIDEA\connector-shws\connector-shws.iml" timestamp="1520587953550" />
+  </project-files>
+</conversion>
+

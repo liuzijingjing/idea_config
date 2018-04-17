@@ -1,0 +1,146 @@
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.81
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Aug 11 2017 10:21:27 UTC
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.81.0
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java8\jdk\jre
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_101-b13
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         G:\idea_config\system\tomcat\Unnamed_mmall
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         E:\apache-tomcat-7.0.81
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=G:\idea_config\system\tomcat\Unnamed_mmall\conf\logging.properties
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=E:\apache-tomcat-7.0.81\endorsed
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=G:\idea_config\system\tomcat\Unnamed_mmall
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=E:\apache-tomcat-7.0.81
+四月 10, 2018 3:13:57 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=E:\apache-tomcat-7.0.81\temp
+四月 10, 2018 3:13:57 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.12 using APR version 1.5.2.
+四月 10, 2018 3:13:57 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 10, 2018 3:13:58 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.2k  26 Jan 2017)
+四月 10, 2018 3:13:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8088"]
+四月 10, 2018 3:13:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 10, 2018 3:13:58 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 2096 ms
+四月 10, 2018 3:13:58 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 10, 2018 3:13:58 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.81
+四月 10, 2018 3:13:58 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8088"]
+四月 10, 2018 3:13:58 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 10, 2018 3:13:58 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 95 ms
+四月 10, 2018 3:14:01 下午 org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+信息: validateJarFile(E:\apache-tomcat-7.0.81\webapps\ROOT\WEB-INF\lib\tomcat-servlet-api-7.0.64.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+四月 10, 2018 3:14:02 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+四月 10, 2018 3:14:02 下午 org.springframework.web.context.ContextLoader initWebApplicationContext
+信息: Root WebApplicationContext: initialization started
+四月 10, 2018 3:14:02 下午 org.springframework.context.support.AbstractApplicationContext prepareRefresh
+信息: Refreshing Root WebApplicationContext: startup date [Tue Apr 10 15:14:02 CST 2018]; root of context hierarchy
+四月 10, 2018 3:14:02 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from class path resource [applicationContext.xml]
+四月 10, 2018 3:14:03 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from class path resource [applicationContext-datasource.xml]
+四月 10, 2018 3:14:03 下午 org.springframework.core.io.support.PropertiesLoaderSupport loadProperties
+信息: Loading properties file from class path resource [datasource.properties]
+四月 10, 2018 3:14:04 下午 org.springframework.web.context.ContextLoader initWebApplicationContext
+信息: Root WebApplicationContext: initialization completed in 1873 ms
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.FrameworkServlet initServletBean
+信息: FrameworkServlet 'dispatcher': initialization started
+四月 10, 2018 3:14:04 下午 org.springframework.context.support.AbstractApplicationContext prepareRefresh
+信息: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Apr 10 15:14:04 CST 2018]; parent: Root WebApplicationContext
+四月 10, 2018 3:14:04 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from URL [file:/E:/apache-tomcat-7.0.81/webapps/ROOT/WEB-INF/classes/dispatcher-servlet.xml]
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/manage/user/login.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<com.michael.mmall.pojo.User> com.michael.mmall.controller.backend.UserManageController.login(java.lang.String,java.lang.String,javax.servlet.http.HttpSession)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//register.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.register(com.michael.mmall.pojo.User)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//get_user_info.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<com.michael.mmall.pojo.User> com.michael.mmall.controller.portal.UserController.getUserInfo(javax.servlet.http.HttpSession)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//logout.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.logout(javax.servlet.http.HttpSession)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//login.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<com.michael.mmall.pojo.User> com.michael.mmall.controller.portal.UserController.login(java.lang.String,java.lang.String,javax.servlet.http.HttpSession)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//reset_password.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.resetPassword(javax.servlet.http.HttpSession,java.lang.String,java.lang.String)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//get_information.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<com.michael.mmall.pojo.User> com.michael.mmall.controller.portal.UserController.get_information(javax.servlet.http.HttpSession)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//check_valid.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.checkValid(java.lang.String,java.lang.String)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_get_question.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.forgetGetQuestion(java.lang.String)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_check_answer.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.forgetCheckAnswer(java.lang.String,java.lang.String,java.lang.String)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//forget_reset_password.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<java.lang.String> com.michael.mmall.controller.portal.UserController.forgetRestPassword(java.lang.String,java.lang.String,java.lang.String)
+四月 10, 2018 3:14:04 下午 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping registerHandlerMethod
+信息: Mapped "{[/user//update_information.do],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.michael.mmall.common.ServerResponse<com.michael.mmall.pojo.User> com.michael.mmall.controller.portal.UserController.update_information(javax.servlet.http.HttpSession,com.michael.mmall.pojo.User)
+四月 10, 2018 3:14:05 下午 org.springframework.web.servlet.FrameworkServlet initServletBean
+信息: FrameworkServlet 'dispatcher': initialization completed in 660 ms
+四月 10, 2018 3:14:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\apache-tomcat-7.0.81\webapps\manager
+四月 10, 2018 3:14:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory E:\apache-tomcat-7.0.81\webapps\manager has finished in 115 ms
+四月 10, 2018 3:15:36 下午 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver handleHttpRequestMethodNotSupported
+警告: Request method 'GET' not supported
+四月 10, 2018 3:16:19 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+四月 10, 2018 3:16:19 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8088"]
+四月 10, 2018 3:16:20 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+四月 10, 2018 3:16:20 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 10, 2018 3:16:20 下午 org.springframework.context.support.AbstractApplicationContext doClose
+信息: Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Apr 10 15:14:04 CST 2018]; parent: Root WebApplicationContext
+四月 10, 2018 3:16:20 下午 org.springframework.context.support.AbstractApplicationContext doClose
+信息: Closing Root WebApplicationContext: startup date [Tue Apr 10 15:14:02 CST 2018]; root of context hierarchy
+四月 10, 2018 3:16:20 下午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+四月 10, 2018 3:16:20 下午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+严重: The web application [] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak.
+四月 10, 2018 3:16:20 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8088"]
+四月 10, 2018 3:16:20 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+四月 10, 2018 3:16:20 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8088"]
+四月 10, 2018 3:16:20 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]

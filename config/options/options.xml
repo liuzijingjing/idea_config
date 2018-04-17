@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.1-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1523282156611" />
+    <property name="file.chooser.recent.files" value="F:/code/Myeclipse Workspace/MyStock/WebRoot/WEB-INF/lib&#10;F:/code/Transaction/Spring-transaction/src&#10;F:/code/Transaction/Spring-transaction&#10;F:/code/Transaction/Spring-transaction/WebRoot/WEB-INF/lib&#10;E:/repository/settings.xml&#10;F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0&#10;F:/项目/EnterpriseProject/新建文件夹/一期+二期资料/mmallv4.0&#10;F:/code/Myeclipse Workspace/MyStock&#10;F:/code/eclipse Workspace/batchpro&#10;F:/项目/EnterpriseProject/dangmianfu_demo_java/TradePayDemo&#10;E:/repository&#10;F:/项目/EnterpriseProject/Java电商一期/mmall/mmall&#10;F:/code/IDEA&#10;C:/Users/D.Jing/.m2/repository&#10;F:/code/SHIDEA/connector-shws&#10;F:/code/SHIDEA&#10;F:/code/IDEA/midpoint-3.7/pom.xml&#10;E:/apache-tomcat-7.0.81&#10;E:/apache-maven-3.5.2&#10;C:/Program Files/Java8/jdk&#10;F:/code/IDEA/IDEA.iml" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.gist.reindex.count" value="15603" />
+    <property name="lastTip" value="60" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10946908" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12300123" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.14035088" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.1633987" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="KEYMAP" value="hier&#10;action&#10;a&#10;refac&#10;new" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="last.imported.location" value="F:/项目/EnterpriseProject/Java电商一期/mmall/mmall" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10946908" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12300123" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="PLUGIN_FILTER" value="compiler&#10;mybatis&#10;my&#10;mybatis plu&#10;mybatis p" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spring" />
+    <property name="SpringBeansModulesPanel[2]" value="0.14035088" />
+    <property name="SpringBeansModulesPanel[3]" value="0.1633987" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+</application>
