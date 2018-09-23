@@ -1980,3 +1980,567 @@
 2018-04-15 15:32:38,348 [    880]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
 2018-04-15 15:32:38,507 [   1039]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1040 ms
 2018-04-16 00:11:08,215 [31110747]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-19 15:37:55,570 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-19 15:37:56,210 [    640]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 594 ms
+2018-04-19 15:37:56,398 [    828]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-19 15:38:00,519 [   4949]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 4121 ms
+2018-04-19 15:38:00,519 [   4949]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-19 15:38:01,112 [   5542]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-19 15:38:03,319 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-19 15:38:03,663 [    344]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 297 ms
+2018-04-19 15:38:03,678 [    359]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-19 15:38:03,678 [    359]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-19 15:38:04,053 [    734]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 375 ms
+2018-04-19 15:38:04,053 [    734]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-19 15:38:04,163 [    844]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-19 15:38:04,350 [   1031]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1031 ms
+2018-04-19 17:07:49,327 [5386008]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-22 16:40:57,211 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-22 16:41:00,500 [   3289]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2666 ms
+2018-04-22 16:41:01,753 [   4542]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-22 16:41:04,805 [   7594]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 3052 ms
+2018-04-22 16:41:04,805 [   7594]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-22 16:41:05,312 [   8101]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-22 16:41:07,120 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-22 16:41:07,910 [    790]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 736 ms
+2018-04-22 16:41:07,946 [    826]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-22 16:41:07,960 [    840]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-22 16:41:08,600 [   1480]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 640 ms
+2018-04-22 16:41:08,600 [   1480]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-22 16:41:08,975 [   1855]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-22 16:41:09,530 [   2410]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2411 ms
+2018-04-22 17:03:02,671 [1315551]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-22 22:15:54,936 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-22 22:15:55,341 [    405]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 351 ms
+2018-04-22 22:15:55,450 [    514]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-22 22:15:56,067 [   1131]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 617 ms
+2018-04-22 22:15:56,067 [   1131]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-22 22:15:56,236 [   1300]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-22 22:15:57,801 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-22 22:15:58,344 [    543]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 476 ms
+2018-04-22 22:15:58,351 [    550]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-22 22:15:58,367 [    566]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-22 22:15:59,035 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 668 ms
+2018-04-22 22:15:59,035 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-22 22:15:59,223 [   1422]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-22 22:15:59,438 [   1637]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1637 ms
+2018-04-22 22:16:09,310 [  11509]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-23 10:58:56,165 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 10:58:56,620 [    455]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 413 ms
+2018-04-23 10:58:56,752 [    587]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 10:58:57,346 [   1181]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 594 ms
+2018-04-23 10:58:57,346 [   1181]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 10:58:57,458 [   1293]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 10:58:58,333 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 10:58:58,763 [    430]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 388 ms
+2018-04-23 10:58:58,771 [    438]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-23 10:58:58,785 [    452]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 10:58:59,401 [   1068]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 615 ms
+2018-04-23 10:58:59,401 [   1068]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 10:58:59,589 [   1256]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 10:58:59,822 [   1489]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1489 ms
+2018-04-23 10:59:12,371 [  14038]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-23 14:33:15,715 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 14:33:16,081 [    366]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 334 ms
+2018-04-23 14:33:16,206 [    491]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 14:33:16,737 [   1022]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 531 ms
+2018-04-23 14:33:16,737 [   1022]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 14:33:16,909 [   1194]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 14:33:17,876 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 14:33:18,360 [    484]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 421 ms
+2018-04-23 14:33:18,407 [    531]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-23 14:33:18,423 [    547]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 14:33:18,954 [   1078]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 531 ms
+2018-04-23 14:33:18,954 [   1078]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 14:33:19,126 [   1250]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 14:33:19,376 [   1500]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1500 ms
+2018-04-23 14:33:29,867 [  11991]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-23 16:05:35,540 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 16:05:35,946 [    406]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 359 ms
+2018-04-23 16:05:36,071 [    531]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 16:05:36,742 [   1202]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 671 ms
+2018-04-23 16:05:36,742 [   1202]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 16:05:36,851 [   1311]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 16:05:37,871 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 16:05:38,371 [    500]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 453 ms
+2018-04-23 16:05:38,371 [    500]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-23 16:05:38,386 [    515]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 16:05:38,933 [   1062]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 547 ms
+2018-04-23 16:05:38,933 [   1062]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 16:05:39,127 [   1256]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 16:05:39,370 [   1499]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1499 ms
+2018-04-23 16:05:50,177 [  12306]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-23 16:18:17,085 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 16:18:17,589 [    504]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 453 ms
+2018-04-23 16:18:17,793 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 16:18:18,945 [   1860]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1152 ms
+2018-04-23 16:18:18,945 [   1860]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 16:18:19,567 [   2482]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 16:18:25,152 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-23 16:18:26,574 [   1422]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1141 ms
+2018-04-23 16:18:26,574 [   1422]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-23 16:18:26,589 [   1437]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-23 16:18:27,293 [   2141]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 704 ms
+2018-04-23 16:18:27,293 [   2141]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-23 16:18:27,434 [   2282]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-23 16:18:27,536 [   2384]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2384 ms
+2018-04-23 16:18:27,568 [   2416]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-25 13:07:36,553 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-25 13:07:37,516 [    963]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 889 ms
+2018-04-25 13:07:37,852 [   1299]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-25 13:07:40,034 [   3481]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2182 ms
+2018-04-25 13:07:40,035 [   3482]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-25 13:07:40,538 [   3985]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-25 13:07:42,695 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-25 13:07:43,391 [    696]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 626 ms
+2018-04-25 13:07:43,400 [    705]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-25 13:07:43,416 [    721]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-25 13:07:44,367 [   1672]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 951 ms
+2018-04-25 13:07:44,367 [   1672]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-25 13:07:44,741 [   2046]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-25 13:07:45,029 [   2334]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2334 ms
+2018-04-25 13:07:55,360 [  12665]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-26 10:38:24,434 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-26 10:38:26,674 [   2240]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2016 ms
+2018-04-26 10:38:26,861 [   2427]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-26 10:38:28,803 [   4369]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1942 ms
+2018-04-26 10:38:28,803 [   4369]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-26 10:38:29,054 [   4620]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-26 10:38:30,093 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-26 10:38:30,446 [    353]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 317 ms
+2018-04-26 10:38:30,454 [    361]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-26 10:38:30,467 [    374]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-26 10:38:30,873 [    780]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 406 ms
+2018-04-26 10:38:30,873 [    780]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-26 10:38:31,057 [    964]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-26 10:38:31,817 [   1724]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1725 ms
+2018-04-26 12:30:27,328 [6717235]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-27 13:48:11,690 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-27 13:48:13,690 [   2000]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1549 ms
+2018-04-27 13:48:14,140 [   2450]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-27 13:48:15,504 [   3814]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1365 ms
+2018-04-27 13:48:15,505 [   3815]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-27 13:48:15,779 [   4089]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-27 13:48:16,701 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-27 13:48:17,130 [    430]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 381 ms
+2018-04-27 13:48:17,137 [    437]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-27 13:48:17,149 [    449]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-04-27 13:48:17,609 [    909]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 460 ms
+2018-04-27 13:48:17,610 [    910]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-27 13:48:17,730 [   1030]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-27 13:48:17,881 [   1181]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1181 ms
+2018-04-27 13:54:05,333 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-27 13:54:06,795 [   1462]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1292 ms
+2018-04-27 13:54:06,880 [   1547]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-04-27 13:54:08,250 [   2917]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1370 ms
+2018-04-27 13:54:08,250 [   2917]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-27 13:54:09,066 [   3733]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-27 13:54:09,518 [   4185]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-27 13:54:10,278 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-04-27 13:54:10,623 [    345]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 309 ms
+2018-04-27 13:54:10,629 [    351]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-04-27 13:54:10,641 [    363]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-04-27 13:54:11,032 [    754]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 391 ms
+2018-04-27 13:54:11,033 [    755]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-04-27 13:54:11,137 [    859]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-04-27 13:54:11,282 [   1004]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1004 ms
+2018-04-27 17:09:03,562 [12046862]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-04-27 17:09:05,538 [11695260]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-02 10:00:20,984 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 10:00:22,958 [   1974]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1935 ms
+2018-05-02 10:00:23,316 [   2332]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-05-02 10:00:25,529 [   4545]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2213 ms
+2018-05-02 10:00:25,529 [   4545]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 10:00:25,784 [   4800]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 10:00:26,622 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 10:00:26,968 [    346]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 309 ms
+2018-05-02 10:00:26,976 [    354]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 10:00:26,988 [    366]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商一期/mmall/mmall, global options path = G:/idea_config/config/options
+2018-05-02 10:00:27,341 [    719]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 353 ms
+2018-05-02 10:00:27,341 [    719]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 10:00:27,439 [    817]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 10:00:27,585 [    963]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 964 ms
+2018-05-02 10:10:12,479 [ 585857]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-02 11:29:29,817 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 11:29:30,333 [    516]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 450 ms
+2018-05-02 11:29:30,509 [    692]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 11:29:31,311 [   1494]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 802 ms
+2018-05-02 11:29:31,311 [   1494]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 11:29:31,440 [   1623]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 11:29:31,739 [   1922]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 11:29:32,782 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 11:29:33,156 [    374]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 327 ms
+2018-05-02 11:29:33,163 [    381]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 11:29:33,177 [    395]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 11:29:33,559 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 382 ms
+2018-05-02 11:29:33,559 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 11:29:33,682 [    900]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 11:29:33,842 [   1060]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1062 ms
+2018-05-02 14:25:52,266 [10579484]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-02 14:27:04,798 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 14:27:05,454 [    656]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 611 ms
+2018-05-02 14:27:05,630 [    832]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 14:27:08,827 [   4029]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 3197 ms
+2018-05-02 14:27:08,827 [   4029]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 14:27:09,051 [   4253]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 14:27:11,891 [   7093]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 14:27:13,615 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 14:27:14,830 [   1215]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1172 ms
+2018-05-02 14:27:14,838 [   1223]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 14:27:14,881 [   1266]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 14:27:16,556 [   2941]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1675 ms
+2018-05-02 14:27:16,556 [   2941]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 14:27:16,819 [   3204]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 14:27:16,967 [   3352]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3353 ms
+2018-05-02 14:27:26,549 [  12934]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-02 17:09:28,538 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 17:09:29,865 [   1327]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1261 ms
+2018-05-02 17:09:30,091 [   1553]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 17:09:31,823 [   3285]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1732 ms
+2018-05-02 17:09:31,824 [   3286]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 17:09:32,215 [   3677]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 17:09:33,518 [   4980]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 17:09:35,256 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-02 17:09:35,654 [    398]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 345 ms
+2018-05-02 17:09:35,661 [    405]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-02 17:09:35,672 [    416]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/code/IDEA/mmall, global options path = G:/idea_config/config/options
+2018-05-02 17:09:36,091 [    835]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 419 ms
+2018-05-02 17:09:36,091 [    835]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 46 libraries
+2018-05-02 17:09:36,203 [    947]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-02 17:09:36,374 [   1118]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1120 ms
+2018-05-02 17:46:06,838 [2191582]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-03 16:27:08,619 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:27:09,283 [    664]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 620 ms
+2018-05-03 16:27:09,420 [    801]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:27:10,582 [   1963]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1162 ms
+2018-05-03 16:27:10,582 [   1963]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:27:10,832 [   2213]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:27:11,123 [   2504]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-05-03 16:27:11,125 [   2506]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:27:11,126 [   2507]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:27:11,152 [   2533]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:27:11,152 [   2533]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c4c26b2c
+2018-05-03 16:27:11,231 [   2612]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:27:11,582 [   2963]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 232 ms
+2018-05-03 16:27:12,290 [   3671]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:27:12,477 [   3858]   INFO - s.incremental.java.JavaBuilder - Compiling 71 java files; module: mmall
+2018-05-03 16:27:19,976 [  11357]   INFO - s.incremental.java.JavaBuilder - Compiling 7 java files; module: mmall (tests)
+2018-05-03 16:27:20,660 [  12041]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 74 ms, 0 sources processed
+2018-05-03 16:27:20,661 [  12042]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 7766 ms, 78 sources processed
+2018-05-03 16:27:20,661 [  12042]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 70 ms, 0 sources processed
+2018-05-03 16:27:20,661 [  12042]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 293 ms, 24 sources processed
+2018-05-03 16:27:20,693 [  12074]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:27:21,672 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:27:22,161 [    489]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 342 ms
+2018-05-03 16:27:22,168 [    496]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:27:22,181 [    509]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:27:22,704 [   1032]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 523 ms
+2018-05-03 16:27:22,704 [   1032]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:27:23,133 [   1461]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:27:23,564 [   1892]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1893 ms
+2018-05-03 16:27:23,790 [   2118]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-03 16:28:17,997 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:28:18,371 [    374]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 336 ms
+2018-05-03 16:28:18,441 [    444]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:28:18,848 [    851]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 407 ms
+2018-05-03 16:28:18,848 [    851]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:28:18,955 [    958]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:28:19,070 [   1073]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:28:19,076 [   1079]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:28:19,076 [   1079]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:28:19,101 [   1104]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:28:19,101 [   1104]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b1c53ba9
+2018-05-03 16:28:19,106 [   1109]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:28:19,135 [   1138]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-05-03 16:28:19,242 [   1245]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:28:19,877 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:28:20,270 [    393]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 342 ms
+2018-05-03 16:28:20,276 [    399]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:28:20,290 [    413]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:28:20,691 [    814]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 401 ms
+2018-05-03 16:28:20,691 [    814]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:28:20,802 [    925]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:28:20,927 [   1050]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1050 ms
+2018-05-03 16:29:01,664 [  41787]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:29:01,672 [  41795]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:29:01,672 [  41795]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:29:01,790 [  41913]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:29:01,790 [  41913]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6fcd8a03
+2018-05-03 16:29:01,800 [  41923]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:29:01,951 [  42074]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 40 ms
+2018-05-03 16:29:02,219 [  42342]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:29:03,054 [  43177]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:29:03,136 [  43259]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 791 ms, 1 sources processed
+2018-05-03 16:29:03,140 [  43263]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:29:03,778 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:29:04,153 [    375]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 333 ms
+2018-05-03 16:29:04,160 [    382]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:29:04,172 [    394]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:29:04,563 [    785]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 391 ms
+2018-05-03 16:29:04,563 [    785]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:29:04,670 [    892]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:29:04,779 [   1001]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1002 ms
+2018-05-03 16:29:44,725 [  40947]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-05-03 16:29:45,231 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:29:45,596 [    365]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 327 ms
+2018-05-03 16:29:45,603 [    372]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:29:45,615 [    384]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:29:46,008 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 393 ms
+2018-05-03 16:29:46,008 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:29:46,120 [    889]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:29:46,225 [    994]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 995 ms
+2018-05-03 16:30:26,338 [  41107]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:30:26,341 [  41110]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:30:26,341 [  41110]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:30:26,370 [  41139]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:30:26,370 [  41139]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b4b888e2
+2018-05-03 16:30:26,373 [  41142]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:30:26,400 [  41169]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-05-03 16:30:26,488 [  41257]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:30:27,302 [  42071]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:30:27,326 [  42095]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:30:27,831 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:30:28,210 [    379]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 338 ms
+2018-05-03 16:30:28,218 [    387]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:30:28,230 [    399]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:30:28,619 [    788]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 389 ms
+2018-05-03 16:30:28,619 [    788]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:30:28,740 [    909]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:30:28,846 [   1015]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1016 ms
+2018-05-03 16:30:46,050 [  18219]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:30:46,054 [  18223]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:30:46,054 [  18223]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:30:46,081 [  18250]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:30:46,081 [  18250]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9d6908bf
+2018-05-03 16:30:46,084 [  18253]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:30:46,109 [  18278]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-05-03 16:30:46,191 [  18360]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:30:47,018 [  19187]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:30:47,100 [  19269]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 805 ms, 1 sources processed
+2018-05-03 16:30:47,106 [  19275]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:30:47,845 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:30:48,216 [    371]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 335 ms
+2018-05-03 16:30:48,224 [    379]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:30:48,236 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:30:48,681 [    836]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 445 ms
+2018-05-03 16:30:48,681 [    836]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:30:48,787 [    942]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:30:48,895 [   1050]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1051 ms
+2018-05-03 16:31:12,615 [  24770]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:31:12,619 [  24774]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:31:12,619 [  24774]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:31:12,644 [  24799]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:31:12,644 [  24799]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c27a7535
+2018-05-03 16:31:12,648 [  24803]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:31:12,676 [  24831]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-05-03 16:31:12,793 [  24948]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:31:13,615 [  25770]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:31:13,640 [  25795]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:31:14,113 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:31:14,506 [    393]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 344 ms
+2018-05-03 16:31:14,512 [    399]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:31:14,525 [    412]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:31:14,934 [    821]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 409 ms
+2018-05-03 16:31:14,934 [    821]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:31:15,057 [    944]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:31:15,177 [   1064]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1067 ms
+2018-05-03 16:31:20,529 [   6416]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:31:20,532 [   6419]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:31:20,532 [   6419]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:31:20,555 [   6442]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:31:20,555 [   6442]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9c23c39d
+2018-05-03 16:31:20,559 [   6446]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:31:20,585 [   6472]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-05-03 16:31:20,677 [   6564]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:31:21,411 [   7298]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:31:21,474 [   7361]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 717 ms, 1 sources processed
+2018-05-03 16:31:21,477 [   7364]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:31:22,152 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:31:22,523 [    371]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 331 ms
+2018-05-03 16:31:22,529 [    377]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:31:22,540 [    388]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:31:22,956 [    804]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 416 ms
+2018-05-03 16:31:22,956 [    804]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:31:23,070 [    918]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:31:23,187 [   1035]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1036 ms
+2018-05-03 16:32:53,434 [  91282]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:32:53,437 [  91285]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:32:53,437 [  91285]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:32:53,466 [  91314]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:32:53,467 [  91315]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started cb8bf0e7
+2018-05-03 16:32:53,470 [  91318]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:32:53,497 [  91345]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-05-03 16:32:53,578 [  91426]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:32:54,485 [  92333]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:32:54,546 [  92394]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 890 ms, 1 sources processed
+2018-05-03 16:32:54,549 [  92397]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:32:55,230 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:32:55,597 [    367]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 329 ms
+2018-05-03 16:32:55,603 [    373]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:32:55,617 [    387]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:32:56,030 [    800]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 413 ms
+2018-05-03 16:32:56,030 [    800]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:32:56,143 [    913]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:32:56,250 [   1020]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1021 ms
+2018-05-03 16:33:52,227 [  56997]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:33:52,231 [  57001]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:33:52,232 [  57002]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:33:52,261 [  57031]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:33:52,261 [  57031]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3a5eaf77
+2018-05-03 16:33:52,266 [  57036]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:33:52,295 [  57065]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-05-03 16:33:52,398 [  57168]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:33:53,256 [  58026]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:33:53,328 [  58098]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 842 ms, 1 sources processed
+2018-05-03 16:33:53,333 [  58103]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:33:53,901 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:33:54,279 [    378]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 337 ms
+2018-05-03 16:33:54,285 [    384]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:33:54,297 [    396]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:33:54,688 [    787]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 391 ms
+2018-05-03 16:33:54,688 [    787]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:33:54,800 [    899]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:33:54,907 [   1006]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1007 ms
+2018-05-03 16:43:51,547 [ 597646]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-05-03 16:43:52,008 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:43:52,390 [    382]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 346 ms
+2018-05-03 16:43:52,396 [    388]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:43:52,406 [    398]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:43:52,802 [    794]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 396 ms
+2018-05-03 16:43:52,802 [    794]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:43:52,912 [    904]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:43:53,018 [   1010]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1012 ms
+2018-05-03 16:47:20,204 [ 208196]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-03 16:47:20,209 [ 208201]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-03 16:47:20,209 [ 208201]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-03 16:47:20,235 [ 208227]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-03 16:47:20,236 [ 208228]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9db9ed3f
+2018-05-03 16:47:20,239 [ 208231]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-03 16:47:20,265 [ 208257]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-05-03 16:47:20,355 [ 208347]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-03 16:47:21,263 [ 209255]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-03 16:47:21,337 [ 209329]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 890 ms, 1 sources processed
+2018-05-03 16:47:21,343 [ 209335]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-03 16:47:21,941 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-03 16:47:22,308 [    367]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 320 ms
+2018-05-03 16:47:22,315 [    374]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-03 16:47:22,326 [    385]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-03 16:47:22,714 [    773]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 388 ms
+2018-05-03 16:47:22,714 [    773]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-03 16:47:22,822 [    881]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-03 16:47:22,927 [    986]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 987 ms
+2018-05-03 17:53:12,910 [3950969]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-04 10:22:27,113 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:22:27,509 [    396]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 361 ms
+2018-05-04 10:22:27,613 [    500]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:22:30,151 [   3038]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2538 ms
+2018-05-04 10:22:30,151 [   3038]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:22:30,279 [   3166]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:22:30,687 [   3574]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:22:31,649 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:22:32,076 [    427]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 380 ms
+2018-05-04 10:22:32,087 [    438]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:22:32,102 [    453]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:22:33,319 [   1670]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1217 ms
+2018-05-04 10:22:33,319 [   1670]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:22:33,442 [   1793]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:22:33,645 [   1996]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1997 ms
+2018-05-04 10:22:40,172 [   8523]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-04 10:26:37,199 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:26:37,576 [    377]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 339 ms
+2018-05-04 10:26:37,645 [    446]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:26:38,019 [    820]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 374 ms
+2018-05-04 10:26:38,019 [    820]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:26:38,127 [    928]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:26:38,237 [   1038]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-04 10:26:38,254 [   1055]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-04 10:26:38,254 [   1055]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-04 10:26:38,277 [   1078]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-04 10:26:38,277 [   1078]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 77241e5a
+2018-05-04 10:26:38,295 [   1096]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-04 10:26:38,428 [   1229]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-05-04 10:26:38,581 [   1382]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:26:38,929 [   1730]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-04 10:26:40,565 [   3366]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-04 10:26:40,687 [   3488]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 26 ms, 1 sources processed
+2018-05-04 10:26:40,687 [   3488]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1599 ms, 1 sources processed
+2018-05-04 10:26:40,704 [   3505]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-04 10:26:41,244 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:26:41,799 [    555]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 513 ms
+2018-05-04 10:26:41,805 [    561]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:26:41,816 [    572]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:26:42,223 [    979]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 407 ms
+2018-05-04 10:26:42,224 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:26:42,337 [   1093]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:26:42,443 [   1199]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1200 ms
+2018-05-04 10:30:41,726 [ 240482]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-04 10:30:41,733 [ 240489]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-04 10:30:41,733 [ 240489]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-04 10:30:41,760 [ 240516]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-04 10:30:41,760 [ 240516]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 273edef5
+2018-05-04 10:30:41,764 [ 240520]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-04 10:30:41,818 [ 240574]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-05-04 10:30:41,931 [ 240687]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-04 10:30:42,792 [ 241548]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-04 10:30:42,873 [ 241629]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 843 ms, 1 sources processed
+2018-05-04 10:30:42,877 [ 241633]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-04 10:30:43,462 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:30:43,835 [    373]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 328 ms
+2018-05-04 10:30:43,841 [    379]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:30:43,853 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:30:44,232 [    770]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 379 ms
+2018-05-04 10:30:44,232 [    770]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:30:44,334 [    872]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:30:44,437 [    975]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 976 ms
+2018-05-04 10:31:11,091 [  27629]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-05-04 10:31:11,095 [  27633]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-05-04 10:31:11,095 [  27633]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2018-05-04 10:31:11,119 [  27657]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-05-04 10:31:11,119 [  27657]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 949f1c46
+2018-05-04 10:31:11,122 [  27660]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2018-05-04 10:31:11,144 [  27682]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-05-04 10:31:11,228 [  27766]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: mmall
+2018-05-04 10:31:12,137 [  28675]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-05-04 10:31:12,215 [  28753]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 911 ms, 1 sources processed
+2018-05-04 10:31:12,219 [  28757]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [mmall]
+2018-05-04 10:31:12,780 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-04 10:31:13,140 [    360]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 324 ms
+2018-05-04 10:31:13,147 [    367]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-04 10:31:13,159 [    379]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-04 10:31:13,550 [    770]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 391 ms
+2018-05-04 10:31:13,550 [    770]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-04 10:31:13,657 [    877]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-04 10:31:13,765 [    985]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 986 ms
+2018-05-04 21:02:33,331 [37880551]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-05-07 09:50:34,921 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-07 09:50:35,735 [    814]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 771 ms
+2018-05-07 09:50:36,015 [   1094]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-07 09:50:38,305 [   3384]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2290 ms
+2018-05-07 09:50:38,306 [   3385]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-07 09:50:39,279 [   4358]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-07 09:50:40,115 [   5194]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-07 09:50:41,196 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-05-07 09:50:42,540 [   1344]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1303 ms
+2018-05-07 09:50:42,546 [   1350]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-05-07 09:50:42,557 [   1361]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-05-07 09:50:43,144 [   1948]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 587 ms
+2018-05-07 09:50:43,145 [   1949]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-05-07 09:50:43,327 [   2131]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-05-07 09:50:43,515 [   2319]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2321 ms
+2018-05-07 09:50:51,797 [  10601]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-06-23 16:59:08,707 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-06-23 16:59:09,794 [   1087]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 986 ms
+2018-06-23 16:59:10,081 [   1374]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-06-23 16:59:11,995 [   3288]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1914 ms
+2018-06-23 16:59:11,995 [   3288]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-06-23 16:59:12,415 [   3708]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-06-23 16:59:13,985 [   5278]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-06-23 16:59:15,335 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/jps-launcher.jar;C:/Program Files/Java8/jdk/lib/tools.jar;E:/JetBrains/IntelliJ IDEA 2017.1.2/lib/optimizedFileManager.jar
+2018-06-23 16:59:16,085 [    750]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 671 ms
+2018-06-23 16:59:16,085 [    750]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-06-23 16:59:16,125 [    790]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = F:/项目/EnterpriseProject/Java电商二期/一期+二期资料/mmallv4.0, global options path = G:/idea_config/config/options
+2018-06-23 16:59:17,162 [   1827]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1037 ms
+2018-06-23 16:59:17,162 [   1827]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 75 libraries
+2018-06-23 16:59:17,533 [   2198]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-06-23 16:59:18,021 [   2686]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2686 ms
+2018-06-23 16:59:30,525 [  15190]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
